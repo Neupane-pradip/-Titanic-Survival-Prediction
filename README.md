@@ -1,6 +1,5 @@
 
-# -Titanic-Survival-Prediction
-=======
+
 # Titanic Survival Prediction Project
 
 This project is a small machine learning workflow built on the Titanic dataset.

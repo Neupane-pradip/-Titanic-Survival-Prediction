@@ -100,4 +100,3 @@ If you are studying the project, follow this order:
 That sequence gives you a complete beginner-friendly view of the project from
 data exploration to model comparison and experiment tracking.
 
->>>>>>> 531c88a (Initial full Titanic project)
